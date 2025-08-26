@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&" alt="kaiwashere0" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kaiwashere0/kaiwashere0/blob/output/github-contribution-grid-snake.gif)
