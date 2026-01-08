@@ -13,6 +13,12 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
     </a>
   </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Language-Turkish-red?style=flat-square&logo=turkey&logoColor=white" alt="Turkish">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English">
+  </p>
+
 </div>
 
 <br/>
@@ -30,8 +36,6 @@ I am currently focusing on high-level systems for roleplay communities and web p
 
 ### 🛠️ Languages & Tools
 
-I have a diverse skill set ranging from backend development to creative design tools.
-
 <div align="center">
 
 **Programming Languages**<br/>
@@ -46,7 +50,7 @@ I have a diverse skill set ranging from backend development to creative design t
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
-**Creative & Hardware**<br/>
+**Creative & Tools**<br/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
@@ -59,22 +63,16 @@ I have a diverse skill set ranging from backend development to creative design t
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaiwashere0&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwashere0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiwashere0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kai's Github Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwashere0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kai's Top Languages" />
+  </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/kaiwashere0/kaiwashere0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <br/><br/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&theme=tokyonight&hide_border=true&background=0d1117" alt="Kai's Streak" />
+  </a>
 </div>
