@@ -1,20 +1,80 @@
-<h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi%20👋,%20I'm%20Kai&fontSize=70&fontAlignY=40&desc=Backend%20Developer%20from%20Turkey&descAlignY=65&descSize=20&animation=fadeIn" alt="Header" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tc0devpwx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tc0devpwx_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kaiwashere0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kaiwashere0" height="30" width="40" /></a>
-<a href="https://discord.gg/mrpolicedepartment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrpolicedepartment" height="30" width="40" /></a>
-</p>
+  <p align="center">
+    <a href="https://discord.gg/mrpolicedepartment" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://instagram.com/tc0devpwx_" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/c/@kaiwashere0" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwashere0&show_icons=true&locale=en&layout=compact" alt="kaiwashere0" /></p>
+### 🚀 Currently Working On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiwashere0&show_icons=true&locale=en" alt="kaiwashere0" /></p>
+I am currently focusing on high-level systems for roleplay communities and web portals.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&" alt="kaiwashere0" /></p>
+| Project | Description |
+| :--- | :--- |
+| 👮‍♂️ **LAPDHQ Integrity Bodycam System** | A comprehensive bodycam management system designed for integrity and realism. |
+| 🌐 **LAPDHQ Official Portal Website** | The official web portal for managing recruitment, news, and department resources. |
 
-![snake gif](https://github.com/kaiwashere0/kaiwashere0/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 🛠️ Languages & Tools
+
+I have a diverse skill set ranging from backend development to creative design tools.
+
+<div align="center">
+
+**Programming Languages**<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+
+**Web Technologies**<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+
+**Creative & Hardware**<br/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator"/>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=kaiwashere0&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwashere0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/kaiwashere0/kaiwashere0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
