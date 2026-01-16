@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi%20👋,%20I'm%20Kai&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20from%20Turkey&descAlignY=65&descSize=20&animation=fadeIn" alt="Header" />
 
   <p align="center">
-    <a href="https://discord.gg/mrpolicedepartment" target="_blank">
+    <a href="https://discord.gg/lapdhq" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
     <a href="https://instagram.com/tc0devpwx_" target="_blank">
