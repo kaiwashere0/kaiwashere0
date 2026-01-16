@@ -29,6 +29,7 @@ I am currently focusing on high-level systems for roleplay communities and web p
 
 | Project | Description |
 | :--- | :--- |
+| 🌐 **Roleplay Web Management System** |
 | 👮‍♂️ **LAPDHQ Integrity Bodycam System** | A comprehensive bodycam management system designed for integrity and realism. |
 | 🌐 **LAPDHQ Official Portal Website** | The official web portal for managing recruitment, news, and department resources. |
 
