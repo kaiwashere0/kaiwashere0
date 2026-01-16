@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi%20👋,%20I'm%20Kai&fontSize=70&fontAlignY=40&desc=Backend%20Developer%20from%20Turkey&descAlignY=65&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=Hi%20👋,%20I'm%20Kai&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20from%20Turkey&descAlignY=65&descSize=20&animation=fadeIn" alt="Header" />
 
   <p align="center">
     <a href="https://discord.gg/mrpolicedepartment" target="_blank">
@@ -60,19 +60,4 @@ I am currently focusing on high-level systems for roleplay communities and web p
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiwashere0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kai's Github Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiwashere0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kai's Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwashere0&theme=tokyonight&hide_border=true&background=0d1117" alt="Kai's Streak" />
-  </a>
-</div>
