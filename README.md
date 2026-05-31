@@ -57,15 +57,14 @@ I started using computers at the age of **4** and have been actively immersed in
 
 ### GitHub Statistics
 
-*(Replace `kaiwashere00` in the links below with your actual GitHub username)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&border_radius=10" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiwashere00&show_icons=true&theme=github_dark&border_radius=10" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwashere00&layout=compact&theme=github_dark&border_radius=10" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=github_dark&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaiwashere00&theme=github_dark&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
 </p>
 
 ---
