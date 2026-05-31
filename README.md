@@ -52,15 +52,12 @@ I started using computers at the age of **4** and have been actively immersed in
 
 * 🔗 **[lapdhq.com.tr](https://www.lapdhq.com.tr)** — **LAPDHQ Legal Department:** A highly advanced, fully integrated Discord Bot and Web Panel system designed for roleplay servers. *(Active System)*
 * 🔗 **[kaistudio.com.tr](https://www.kaistudio.com.tr)** — **Kai Studio:** My official personal portfolio showcasing my UI/UX and software development capabilities.
-* 🔗 **[kateshi.net](https://www.kateshi.net)** — **Professional Workspace:** The team where I currently work, contributing to high-performance bot ecosystems and infrastructure.
-* 🔗 **[mrpd.net.tr](https://www.mrpd.net.tr)** — **Art Roleplay Web:** A comprehensive web-based management dashboard developed specifically for a FiveM roleplay server.
-* 🔗 **Kai Services APP** — The ultimate multipurpose Discord bot powering the infrastructure of LAPD and many other servers. *(Currently serving 23 Servers & 1.1K+ Users)*
 
 ---
 
 ### GitHub Statistics
 
-*(Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub username)*
+*(Replace `kaiwashere00` in the links below with your actual GitHub username)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&border_radius=10" height="150" alt="GitHub Stats" />
