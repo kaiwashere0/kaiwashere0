@@ -53,19 +53,7 @@ I started using computers at the age of **4** and have been actively immersed in
 * 🔗 **[lapdhq.com.tr](https://www.lapdhq.com.tr)** — **LAPDHQ Legal Department:** A highly advanced, fully integrated Discord Bot and Web Panel system designed for roleplay servers. *(Active System)*
 * 🔗 **[kaistudio.com.tr](https://www.kaistudio.com.tr)** — **Kai Studio:** My official personal portfolio showcasing my UI/UX and software development capabilities.
 
----
 
-### GitHub Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiwashere00&show_icons=true&theme=github_dark&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwashere00&layout=compact&theme=github_dark&border_radius=10" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiwashere00&theme=github_dark&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
-</p>
 
 ---
 <p align="center" style="color: #6e7681; font-size: 0.9rem;">
